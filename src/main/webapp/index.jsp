@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello bots... from jenkins..using partial automation...triggering pipeline manually.. using deploy to container plugin..V.2.0!!</h2>
+<h2>Hello bots... from jenkins..this is fully automated pipeline.. on github push event webhook...!!</h2>
 </body>
 </html>
